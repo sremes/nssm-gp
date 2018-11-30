@@ -1,0 +1,8 @@
+--ard --kernel sm --data power --q 5 --lr 1e-2 --bs 64
+--ard --kernel sm --data power --q 5 --lr 1e-2 --bs 128
+--ard --kernel sm --data power --q 5 --lr 1e-3 --bs 64
+--ard --kernel sm --data power --q 5 --lr 1e-3 --bs 128
+--ard --kernel sm --data power --q 10 --lr 1e-2 --bs 64
+--ard --kernel sm --data power --q 10 --lr 1e-2 --bs 128
+--ard --kernel sm --data power --q 10 --lr 1e-3 --bs 64
+--ard --kernel sm --data power --q 10 --lr 1e-3 --bs 128

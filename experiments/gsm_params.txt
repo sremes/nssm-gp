@@ -1,0 +1,12 @@
+--ard --kernel gsm --data skin --q 4 --lr 1e-3 --bs 128
+--ard --kernel gsm --data skin --q 4 --lr 1e-4 --bs 128
+--ard --kernel gsm --data skin --q 4 --lr 1e-5 --bs 128
+--ard --kernel gsm --data skin --q 4 --lr 1e-6 --bs 128
+--ard --kernel gsm --data skin --q 4 --lr 1e-3 --bs 64
+--ard --kernel gsm --data skin --q 4 --lr 1e-4 --bs 64
+--ard --kernel gsm --data skin --q 4 --lr 1e-5 --bs 64
+--ard --kernel gsm --data skin --q 4 --lr 1e-6 --bs 64
+--ard --kernel gsm --data skin --q 4 --lr 1e-3 --bs 256
+--ard --kernel gsm --data skin --q 4 --lr 1e-4 --bs 256
+--ard --kernel gsm --data skin --q 4 --lr 1e-5 --bs 256
+--ard --kernel gsm --data skin --q 4 --lr 1e-6 --bs 256

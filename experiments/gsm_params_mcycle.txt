@@ -1,0 +1,8 @@
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-3 --bs 64
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-4 --bs 64
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-5 --bs 64
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-6 --bs 64
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-3 --bs 32
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-4 --bs 32
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-5 --bs 32
+--ard --kernel gsm --data mcycle --q 2 --lr 1e-6 --bs 32
